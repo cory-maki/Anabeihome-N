@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://anabei.netlify.app/sitemap.xml
